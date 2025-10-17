@@ -112,7 +112,6 @@ class KufarBot:
         ]
         await update.message.reply_html(text, reply_markup=InlineKeyboardMarkup(keyboard))
 
-User, [17.10.2025 16:40]
 import os
 import asyncio
 import logging
